@@ -1,0 +1,8 @@
+
+ Financial Analysis 
+----------------------- 
+Total Months = 86
+Total Revenue = $38382578
+Ave. Monthly Change in Profit = $-2315.12
+Largest Increase in Profit was $1926159 this happened in Feb-2012
+Largest Decrease in Profit was $-2196167 this happened in Sep-2013
